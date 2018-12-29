@@ -1,0 +1,5 @@
+[all]
+awx.bui.io
+
+[all:vars]
+ansible_python_interpreter=/usr/bin/python3
