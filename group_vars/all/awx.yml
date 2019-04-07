@@ -1,6 +1,6 @@
 ---
 awx_repo_directory: /opt/awx
-awx_version: 4.0.0
+awx_version: 4.0.0 
 awx_update_repo: true
 
 awx_vars:
