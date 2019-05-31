@@ -14,3 +14,6 @@
 
 - src: calvinbui.ansible_awx
   version: '1.0'
+
+- src: calvinbui.ansible_datadog
+  version: '1.0.2'
