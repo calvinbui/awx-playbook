@@ -12,6 +12,9 @@
 - src: calvinbui.ansible_nodejs
   version: '2.0.0'
 
+- src: calvinbui.ansible_acme_certificates
+  version: '1.6.0'
+
 - src: calvinbui.ansible_awx
   version: '1.0'
 
