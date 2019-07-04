@@ -11,3 +11,5 @@ Install the roles: `ansible-galaxy install -r roles/requirements.yml --force`
 Install sshpass: `sudo apt install sshpass -y`
 
 Run the playbook: `ansible-playbook site.yml -i hosts -v -u calvin -k -K --ask-vault-pass`
+
+NOTE: Ansible for your user (e.g. `calvin`) can be different for the root user. Check the pip install packages to lock different versions.

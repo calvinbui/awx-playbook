@@ -2,7 +2,10 @@
 pip_version: 3
 pip_install_packages:
   - name: ansible
+    version: '2.8.2'
   - name: docker
+    version: '4.0.2'
   - name: docker-compose
+    version: '1.24.1'
   - name: pyopenssl
     version: '19.0.0'
