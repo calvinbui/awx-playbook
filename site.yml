@@ -13,5 +13,6 @@
     - calvinbui.ansible_docker
     - calvinbui.ansible_git
     - calvinbui.ansible_nodejs
+    - calvinbui.ansible_acme_certificates
     - calvinbui.ansible_awx
     - calvinbui.ansible_datadog
