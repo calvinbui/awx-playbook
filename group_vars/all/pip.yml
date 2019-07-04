@@ -4,3 +4,5 @@ pip_install_packages:
   - name: ansible
   - name: docker
   - name: docker-compose
+  - name: pyopenssl
+    version: '19.0.0'
